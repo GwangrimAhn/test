@@ -1,3 +1,4 @@
 Detect datas of YOLOv8
-epoch=100
-dataset=bdd10k
+
+epoch    =  100
+dataset  =  bdd10k
