@@ -1,6 +1,6 @@
 Detect datas of YOLOv8
 
-Trained, Detected by colab environment (V100)
+Trained, Detected by colab environment (GPU: V100)
 
 Epoch    =  100
 Dataset  =  bdd10k
