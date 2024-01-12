@@ -4,3 +4,5 @@ Trained, Detected by colab environment (GPU: V100)
 
 Epoch    =  100
 Dataset  =  bdd10k
+
+yolov8_detect.mp4 is demo video.
